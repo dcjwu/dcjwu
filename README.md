@@ -67,6 +67,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/79465dba-0200-4e69-a147-ed7ca5cf1957.svg"/>
+</p>
 
 <hr/>
 
