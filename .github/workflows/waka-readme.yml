@@ -21,4 +21,5 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: false
-          SHOW_MASKED_TIME: false,
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 7
