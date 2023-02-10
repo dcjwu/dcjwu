@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Vim-005D04?&style=flat-square&logo=vim&logoColor=white" alt="neovim">
 </p>
 
-#### 💻 &nbsp;Last 30 days coding:
+#### 💻 &nbsp;Last 7 days of coding:
 
 <!--START_SECTION:waka-->
 
