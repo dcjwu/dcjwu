@@ -23,8 +23,3 @@ jobs:
           SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
           LANG_COUNT: 7
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE: true
-          SHOW_OS: true
