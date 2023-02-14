@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PyCharm-green?style=flat-square&logo=pycharm&logoColor=white" alt="pycharm">
+  <img src="https://img.shields.io/badge/PhpStorm-6B57FF?style=flat-square&logo=phpstorm&logoColor=white" alt="phpstorm">
 </p>
 
 #### 🧐&nbsp; Next learning objectives:
