@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="typescript">
   <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" alt="python">
+   <img src="https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white" alt="php">
 </p>
 <p>
    <img src="https://img.shields.io/badge/React-19b0ea?style=flat-square&logo=react&logoColor=white" alt="react">
@@ -49,7 +50,6 @@
 
 #### 🧐&nbsp; Next learning objectives:
 <p>
-  <img src="https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white" alt="symfony">
 </p>
 <p>
