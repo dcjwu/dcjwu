@@ -61,11 +61,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        42 mins         ████████████████████████▒   97.12 %
-Nginx Configuration        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-HTML                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP                        51 mins         █████████░░░░░░░░░░░░░░░░   36.30 %
+Docker                     37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Nginx Configuration        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Makefile                   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+YAML                       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+GitIgnore file             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
