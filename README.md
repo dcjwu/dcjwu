@@ -61,12 +61,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                    9 hrs 13 mins   █████████████████████▒░░░   85.97 %
-Markdown                      25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JSON                          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-HTML                          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JavaScript Testing Snapshot   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-GitIgnore file                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript                    12 hrs 6 mins   ██████████████████████░░░   88.48 %
+Markdown                      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+SCSS                          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JSON                          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+HTML                          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JavaScript Testing Snapshot   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
