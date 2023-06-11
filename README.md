@@ -61,7 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Solidity file    36 mins         ███████████▓░░░░░░░░░░░░░   46.78 %
+Solidity         19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+JavaScript       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+Bash             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
