@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="git">
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="docker">
   <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="vercel">
 </p>
 <p>
   <img src="https://img.shields.io/badge/PhpStorm-6B57FF?style=flat-square&logo=phpstorm&logoColor=white" alt="phpstorm">
