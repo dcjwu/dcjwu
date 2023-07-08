@@ -21,7 +21,7 @@
     <a/>
 </p>
 
-#### 👋 &nbsp;Hey!
+#### 👋 &nbsp;Hi! I'm Alex, a self-taught full-stack developer based in Riga, Latvia.
 
 - 🕵 &nbsp; I am detail oriented and meticulous developer with nearly two years of experience;
 - 🛠 &nbsp; Currently learning Backend Development;
