@@ -48,6 +48,9 @@
 <p>
   <img src="https://img.shields.io/badge/PhpStorm-6B57FF?style=flat-square&logo=phpstorm&logoColor=white" alt="phpstorm">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=flat-square&logo=apple&logoColor=white" alt="macos">
+</p>
 
 #### 🧐&nbsp; Next learning objectives:
 <p>
