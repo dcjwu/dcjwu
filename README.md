@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nestjs">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="git">
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="docker">
   <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws">
 </p>
