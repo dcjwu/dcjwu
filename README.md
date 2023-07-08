@@ -38,7 +38,6 @@
    <img src="https://img.shields.io/badge/React-19b0ea?style=flat-square&logo=react&logoColor=white" alt="react">
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nestjs">
-  <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white" alt="django">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="docker">
