@@ -78,9 +78,5 @@ HTML             15 mins         ░░░░░░░░░░░░░░░�
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dcjwu&show_icons=true&count_private=true&hide_border=true&bg_color=e7e7e7&icon_color=f97035&title_color=f97035&text_color=000000"/>
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcjwu&hide_border=true&background=e7e7e7&stroke=f97035&fire=f97035&ring=f97035&currStreakLabel=f97035"/>
 </p>
