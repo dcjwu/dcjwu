@@ -23,7 +23,7 @@
 
 #### 👋 &nbsp;Hi! I'm Alex, a self-taught full-stack developer based in Riga, Latvia.
 
-- 🕵 &nbsp; ;
+- 🕵 &nbsp; My journey started at the end of 2020 as a front-end developer, eventually growing fascinated with back-end development, drawn by its potential to fuel innovation on a deeper level and allow me to become a versatile professional, empowering me to excel at any given task;
 - 💡 &nbsp; Once I sold my gaming console because coding gave me so much more emotion than playing video games.
   
 #### ❤️ &nbsp;Technologies:
