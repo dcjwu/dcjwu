@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 47 hrs 12 mins
+Total Time: 45 hrs 51 mins
 
-PHP              17 hrs 36 mins  █████████▒░░░░░░░░░░░░░░░   37.30 %
-TypeScript       14 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   29.85 %
-Solidity         11 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-JSON             1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Markdown         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+TypeScript       16 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   35.18 %
+PHP              14 hrs 50 mins  ████████░░░░░░░░░░░░░░░░░   32.36 %
+Solidity         11 hrs 5 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Markdown         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JSON             59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
