@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 24 mins
+Total Time: 3 hrs 42 mins
 
-TypeScript       3 hrs 19 mins   ███████████████████░░░░░░   75.35 %
-Solidity         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-SCSS             22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-XML              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-JavaScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript       2 hrs 17 mins   ███████████████▒░░░░░░░░░   61.77 %
+Solidity         56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+SCSS             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+XML              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+JavaScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
