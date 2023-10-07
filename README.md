@@ -64,13 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 59 mins
+Total Time: 4 mins
 
-PHP              5 hrs 31 mins   ███████████████████████░░   92.13 %
-Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Blade Template   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
