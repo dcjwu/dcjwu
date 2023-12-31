@@ -64,13 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 25 mins
+Total Time: 0 secs
 
-TypeScript       3 hrs 13 mins   ██████████████████▒░░░░░░   72.94 %
-PHP              42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-JSON             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
