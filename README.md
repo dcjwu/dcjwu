@@ -64,9 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 15 mins
 
-No activity tracked
+PHP    15 mins         █████████████████████████   99.95 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
