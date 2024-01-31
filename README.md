@@ -37,6 +37,7 @@
    <img src="https://img.shields.io/badge/React-19b0ea?style=flat-square&logo=react&logoColor=white" alt="react">
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nestjs">
+  <img src="https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white" alt="symfony">
 </p>
 <p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="git">
@@ -52,9 +53,6 @@
 </p>
 
 #### 🧐&nbsp; Next learning objectives:
-<p>
-  <img src="https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white" alt="symfony">
-</p>
 <p>
   <img src="https://img.shields.io/badge/Vim-005D04?&style=flat-square&logo=vim&logoColor=white" alt="neovim">
 </p>
