@@ -62,13 +62,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 51 hrs 47 mins
+Total Time: 50 hrs 34 mins
 
-TypeScript       47 hrs 8 mins   ██████████████████████▓░░   91.04 %
-PHP              1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Prisma           1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Image (svg)      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript       42 hrs 48 mins  █████████████████████░░░░   84.64 %
+PHP              2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+YAML             1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Prisma           1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+JavaScript       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
