@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/dcjwu/kucenko.dev/master/public/logo-dt1.svg#gh-dark-mode-only" width="45%"/>
     <img src="https://raw.githubusercontent.com/dcjwu/kucenko.dev/master/public/logo-wt.svg#gh-light-mode-only" width="45%"/>  
   </p>
-</h1>
+</h1> 
 
 <p align="center">
     <a href="https://instagram.com/kucenko.life" target="_blank">
@@ -16,9 +16,6 @@
     <a href="https://www.linkedin.com/in/aleksejs-kucenko-b2b605143/" target="_blank">
         <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
     </a>
-    <a href="https://kucenko.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Website-f97035?style=flat-square&logo=google-chrome&logoColor=white" alt="linkedin">
-    <a/>
 </p>
 
 #### 👋 &nbsp;Hi! I'm Alex, a self-taught full-stack developer based in Riga, Latvia.
