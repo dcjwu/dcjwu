@@ -2,13 +2,6 @@
   <img src="https://www.codewars.com/users/dcjwu/badges/micro" alt="codewars-dcjwu"/>
 </p>
 
-<h1>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/dcjwu/kucenko.dev/master/public/logo-dt1.svg#gh-dark-mode-only" width="45%"/>
-    <img src="https://raw.githubusercontent.com/dcjwu/kucenko.dev/master/public/logo-wt.svg#gh-light-mode-only" width="45%"/>  
-  </p>
-</h1> 
-
 <p align="center">
     <a href="https://instagram.com/kucenko.life" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=flat-square&logo=Instagram&logoColor=white" alt="instagram">
