@@ -18,7 +18,7 @@
 #### ❤️ &nbsp;Technologies:
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" alt="python">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
   <img src="https://img.shields.io/badge/PHP-8993be?style=flat-square&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white" alt="solidity">
 </p>
