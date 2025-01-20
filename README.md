@@ -58,9 +58,3 @@ Svelte           7 mins          ▒░░░░░░░░░░░░░░�
 <p align="center">
   <img src="https://wakatime.com/badge/user/79465dba-0200-4e69-a147-ed7ca5cf1957.svg"/>
 </p>
-
-<hr/>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcjwu&hide_border=true&background=e7e7e7&stroke=f97035&fire=f97035&ring=f97035&currStreakLabel=f97035"/>
-</p>
