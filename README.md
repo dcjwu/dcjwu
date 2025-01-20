@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://www.codewars.com/users/dcjwu/badges/micro" alt="codewars-dcjwu"/>
-</p>
-
 <p align="center">
     <a href="https://instagram.com/kucenko.life" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=flat-square&logo=Instagram&logoColor=white" alt="instagram">
