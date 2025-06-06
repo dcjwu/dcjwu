@@ -45,13 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 4 mins
+Total Time: 0 secs
 
-TypeScript       1 hr 50 mins    ██████████████████████░░░   88.59 %
-.env file        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
