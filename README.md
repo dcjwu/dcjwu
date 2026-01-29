@@ -45,9 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 11 hrs 5 mins
 
-No activity tracked
+Python       5 hrs 30 mins   ████████████▒░░░░░░░░░░░░   48.83 %
+YAML         2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+Markdown     1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Bash         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Makefile     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
