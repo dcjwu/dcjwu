@@ -47,9 +47,7 @@
 ```txt
 Total Time: 0 secs
 
-TypeScript   0 secs                ████████████████████▒░░░░   81.41 %
-JSON         0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
