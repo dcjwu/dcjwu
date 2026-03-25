@@ -45,9 +45,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 27 mins
 
-No activity tracked
+YAML             14 mins               █████████████▓░░░░░░░░░░░   54.03 %
+GitIgnore file   8 mins                ████████░░░░░░░░░░░░░░░░░   31.74 %
+textmate         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Bash             0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Makefile         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
