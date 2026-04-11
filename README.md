@@ -45,13 +45,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 mins
+Total Time: 0 secs
 
-Python   23 mins               ████████████████▓░░░░░░░░   67.27 %
-JSON     10 mins               ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Bash     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-TOML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
