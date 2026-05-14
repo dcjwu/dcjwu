@@ -45,9 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 3 mins
 
-Markdown   1 min                 █████████████████████████   100.00 %
+JSON       2 mins                ██████████████▓░░░░░░░░░░   58.97 %
+Markdown   1 min                 ██████████▒░░░░░░░░░░░░░░   41.03 %
 ```
 
 <!--END_SECTION:waka-->
