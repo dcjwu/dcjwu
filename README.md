@@ -21,16 +21,6 @@
 - Now building for clients directly: **websites, Telegram bots with AI, CRMs and back-office systems**.
 - Every project ships with tests, automated deploys and documentation.
 
-### 🚀 Selected work
-
-| Project | What it is |
-|---|---|
-| [Magnuss House](https://kucenko.dev/en/cases/magnuss-house) | Landing page with CMS, 3 languages and SEO |
-| [Art platform](https://kucenko.dev/en/cases/art-platform) | Back-office system + AI bot handling requests from WhatsApp and Telegram |
-| [Karine Paronyanc](https://kucenko.dev/en/cases/gallery) | Artist website with a catalogue of 200+ works |
-| [Telegram game](https://kucenko.dev/en/cases/telegram-game) | Web game with leagues, guilds and a referral program |
-| [Telegram marketing](https://kucenko.dev/en/cases/telegram-marketing) | AI bot that monitors chats and replies to requests |
-
 ### 🛠 Stack
 
 <p>
